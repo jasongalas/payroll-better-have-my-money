@@ -12,9 +12,9 @@ This is a simple webpage with popup windows. This is operational in any browser.
 
 All that you need to do is input the requested information: first name then last and then the salary. The average salary and the random employee selector comes up as two separate alerts. A table appears after these are closed.
 
-Develop/assets/average-salary.png
-Develop/assets/random-employee.png
-Develop/assets/website.png
+Develop/assets/Images/average-salary.png
+Develop/assets/Images/random-employee.png
+Develop/assets/Images/website.png
 
 ## Credits
 
